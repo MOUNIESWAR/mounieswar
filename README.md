@@ -12,11 +12,11 @@
 
 - 🌱 I’m currently learning **Recurrent neural network**
 
-- 💬 Ask me about ** Interstellar So we finally are trying now**
+- 💬 Ask me about ** Interstellar **
 
 - 📫 How to reach me **mounieswaraju@gmail.com**
 
-- ⚡ Fun fact **i'm sleppy**
+- ⚡ Fun fact **I love watching Anime**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
