@@ -1,4 +1,4 @@
-[![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png.webp)
+![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png.webp)
 <h1 align="center">Hi 👋, I'm Mounieswar</h1>
 <h3 align="center">A passionate person in Machine Learning Activity</h3>
 <img align="right" alt="Relax" width="500" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/9afe0493484903.5e66500f8dea4.gif">
