@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Music Generation**
+- 🔭 I’m currently working on **Artifical Intellegence and Machine Learning**
 
 - 🌱 I’m currently learning **Recurrent neural network**
 
-- 💬 Ask me about **Web development and python aswell**
+- 💬 Ask me about ** Interstellar So we finally are trying now**
 
 - 📫 How to reach me **mounieswaraju@gmail.com**
 
