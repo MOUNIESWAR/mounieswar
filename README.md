@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Artifical Intellegence and Machine Learning**
+- 🔭 I’m currently working on **Artifical Intellegence and Machine Learning & Prompt Engineering**
 
 - 🌱 I’m currently learning **Recurrent neural network**
 
