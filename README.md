@@ -3,7 +3,6 @@
 <h3 align="center">A passionate person in Machine Learning </h3>
 <img align="right" alt="Relax" width="500" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/9afe0493484903.5e66500f8dea4.gif">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mounieswar&label=Profile%20views&color=0e75b6&style=flat" alt="mounieswar" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
