@@ -23,8 +23,6 @@
 <a href="https://kaggle.com/mounieswar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mounieswar" height="30" width="40" /></a>
 <a href="https://instagram.com/arsenal1767773" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arsenal1767773" height="30" width="40" /></a>
 </p>
-# 🎮 Play Time:
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mounieswar&show_icons=true&locale=en" alt="mounieswar" /></p>
 
